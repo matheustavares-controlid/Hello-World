@@ -7,3 +7,8 @@ void HelloUniverse() {
 
 }
 
+void HelloUniverse2() {
+
+    std::cout << "Hey Dude" << std::endl;
+
+}
